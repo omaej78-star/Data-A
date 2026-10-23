@@ -31,9 +31,9 @@ The business needs to understand:
 
 ## Dataset
 
-The analysis uses a customer churn dataset containing 7,032 customer records.
+The analysis uses a customer churn dataset containing 7,043 customer records.
 
-- Total customers: 7,032
+- Total customers analysed: 7,032
 - Customers who churned: 1,869
 - Customers retained: 5,163
 - Overall churn rate: 26.58%
